@@ -1,10 +1,10 @@
 {
-    "image": "ghcr.io/llinsbauer/latex",
-    "customizations": {
-      "vscode": {
-        "extensions": [
-          "James-Yu.latex-workshop"
-        ]
-      }
+  "image": "ghcr.io/llinsbauer/latex",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "James-Yu.latex-workshop"
+      ]
     }
   }
+}
